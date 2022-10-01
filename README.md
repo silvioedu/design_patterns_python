@@ -23,3 +23,6 @@
 
 ### Factory
 - [Generic Folder](./secao04/)
+- [Simple](./secao04/simple/)
+- [Factory Method](./secao04/method/): criar um produto
+- [Abstract Factory](./secao04/abstract/): criar uma família de produtos relacionados
