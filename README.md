@@ -30,3 +30,9 @@
 ### Facade
 - [Generic Folder](./secao05/)
 - [Padrão](./secao05/padrao/)
+
+### Proxy
+- [Generic Folder](./secao06/)
+- [Proxy](./secao06/proxy/)
+- [Proxy2](./secao06/proxy2/)
+
