@@ -1,4 +1,4 @@
-import meu_modulo
+import meu_modulo as meu_modulo
 
 print(f'O nome é {meu_modulo.NOME}')
 
