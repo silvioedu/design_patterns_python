@@ -12,7 +12,11 @@
 
 <br>
 
-### Singleton
+### Creation
+<hr>
+<br>
+
+#### Singleton
 
 ![uml diagram](./secao03/uml.png)
 
@@ -24,7 +28,7 @@
 - [Metaclasse](./secao03/metaclasse/)
 - [Projetos](./secao03/projetos/)
 
-### Factory
+#### Factory
 
 ![uml diagram](./secao04/uml.png)
 
@@ -33,14 +37,20 @@
 - [Factory Method](./secao04/method/): criar um produto
 - [Abstract Factory](./secao04/abstract/): criar uma família de produtos relacionados
 
-### Facade
+<br>
+
+### Structural 
+<hr>
+<br>
+
+#### Facade
 
 ![uml diagram](./secao05/uml.png)
 
 - [Generic Folder](./secao05/)
 - [Padrão](./secao05/padrao/)
 
-### Proxy
+#### Proxy
 
 ![uml diagram](./secao06/uml.png)
 
@@ -48,3 +58,12 @@
 - [Proxy](./secao06/proxy/)
 - [Proxy2](./secao06/proxy2/)
 
+<br>
+
+### Behavioral
+<hr>
+<br>
+
+#### Observer
+
+![uml diagram](./secao07/uml.png)
