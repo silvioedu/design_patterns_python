@@ -67,3 +67,8 @@
 #### Observer
 
 ![uml diagram](./secao07/uml.png)
+
+- [Generic Folder](./secao07/)
+- [Simple](./secao07/simple/)
+- [Observer](./secao07/observer/)
+
