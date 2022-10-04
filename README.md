@@ -72,3 +72,10 @@
 - [Simple](./secao07/simple/)
 - [Observer](./secao07/observer/)
 
+#### Command
+
+![uml diagram](./secao08/uml.png)
+
+- [Generic Folder](./secao08/)
+- [Simple](./secao08/simple/)
+- [Command](./secao08/command/)
